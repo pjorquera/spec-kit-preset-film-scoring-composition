@@ -8,3 +8,45 @@ preset:
   author: "Pedro Jorquera"
   repository: "https://github.com/pjorquera/spec-kit-preset-film-scoring-composition"
   license: "MIT"
+
+requires:
+  speckit_version: ">=0.6.0"
+
+provides:
+  templates:
+    - type: "template"
+      name: "constitution-template"
+      file: "templates/constitution-template.md"
+      description: "Creative workflow constitution"
+      replaces: "constitution-template"
+
+    - type: "template"
+      name: "spec-template"
+      file: "templates/spec-template.md"
+      description: "Cue brief template"
+      replaces: "spec-template"
+
+    - type: "template"
+      name: "plan-template"
+      file: "templates/plan-template.md"
+      description: "Composition plan template"
+      replaces: "plan-template"
+
+    - type: "template"
+      name: "tasks-template"
+      file: "templates/tasks-template.md"
+      description: "Composition tasks template"
+      replaces: "tasks-template"
+
+    - type: "template"
+      name: "checklist-template"
+      file: "templates/checklist-template.md"
+      description: "Validation checklist template"
+      replaces: "checklist-template"
+
+tags:
+  - "music"
+  - "composition"
+  - "scoring"
+  - "film"
+  - "orchestration"
