@@ -93,7 +93,7 @@ specify preset add --dev /path/to/spec-kit-preset-film-scoring-composition
 
 ## Install from release
 ```bash
-specify preset add --from https://github.com/pjorquera/spec-kit-preset-film-scoring-composition/archive/refs/tags/v0.1.0.zip
+specify preset add --from https://github.com/pjorquera/spec-kit-preset-film-scoring-composition/archive/refs/tags/0.1.0.zip
 ```
 
 ## Test resolution
