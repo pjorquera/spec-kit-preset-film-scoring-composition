@@ -1,6 +1,6 @@
 # Film Scoring Composition Spec Kit Preset
 
-A Spec Kit preset that adapts the standard **spec → plan → tasks** workflow to film scoring, orchestration, and musical composition.
+A Spec Kit preset that adapts the standard **spec + plan + tasks** workflow to film scoring, orchestration, and musical composition.
 
 Instead of treating a project as software to be implemented, this preset treats it as **music evolving over time**.
 
@@ -105,6 +105,7 @@ specify preset list
 
 ## License
 
+```text
 MIT License
 
 Copyright (c) 2026 Pedro Jorquera
@@ -126,3 +127,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
