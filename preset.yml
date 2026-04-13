@@ -1,0 +1,10 @@
+schema_version: "1.0"
+
+preset:
+  id: "film-scoring-composition"
+  name: "Film Scoring Composition"
+  version: "0.1.0"
+  description: "A Spec Kit preset for film scoring, orchestration, and cue-based creative composition workflows."
+  author: "Pedro Jorquera"
+  repository: "https://github.com/pjorquera/spec-kit-preset-film-scoring-composition"
+  license: "MIT"
