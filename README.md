@@ -1,4 +1,4 @@
-# Film Scoring Composition Preset
+# Film Scoring Composition Spec Kit Preset
 
 A Spec Kit preset that adapts the standard **spec → plan → tasks** workflow to film scoring, orchestration, and musical composition.
 
